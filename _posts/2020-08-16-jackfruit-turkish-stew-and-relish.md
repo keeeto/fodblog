@@ -1,5 +1,5 @@
 ---
-title: Jackfruit Bolognase
+title: Turkish Jackfruit with Chilli Relish
 category: dinner
 tags: [jackfruit, lentils, main, recipies]
 ---
@@ -9,7 +9,7 @@ Stew
     1/2 tsp ground cinnamon
     1/4 tsp cayenne pepper
     1 tsp ground cumin
-    1 tsp [kebab spice mix]({% post_url 2020-03-08-kebab-spice-mixt %})
+    1 tsp [kebab spice mix]({% post_url 2020-03-08-kebab-spice-mix %})
     2 garlic cloves, grated
     3 medium carrots
     4 garlic cloves
