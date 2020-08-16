@@ -37,7 +37,7 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
   - title: Recent
-    url: /articles/
+    url: /fodblog/articles/
     desc: Real time blog of the recipes
   - title: Food Types
     url: /food_types/
