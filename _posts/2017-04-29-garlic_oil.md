@@ -1,7 +1,7 @@
 ---
 title: Garlic oil
 category: basics
-tags: [garlic, recipes]
+tags: [garlic, recipes, fodmap]
 ---
 
 	Well lov'd he garlic, onions, and leeks,

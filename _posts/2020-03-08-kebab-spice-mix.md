@@ -1,6 +1,6 @@
 ---
 title: Kebab spice mix
-tags: [spice, seasoning, mediterranean]
+tags: [spice, seasoning, mediterranean, recipes]
 ---
 
     Behind the counter they look nervous

@@ -1,7 +1,7 @@
 ---
 title: Porter-pickled butternut squash 
 category: tea
-tags: [ pickle, middle_east, recipe]
+tags: [ pickle, middle_east, recipe, fodmap]
 ---
 	In the pubs for seven years
 	Men have given him their ears

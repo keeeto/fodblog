@@ -1,6 +1,6 @@
 ---
 title: Potato chickpea curry
-tags: [potato, chickpea, dinner, curry]
+tags: [potato, chickpea, dinner, curry, recipes]
 ---
 
     * 1 onion

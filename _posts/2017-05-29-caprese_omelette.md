@@ -1,7 +1,7 @@
 ---
 title: Caprese omelette 
 category: breakfast
-tags: [mediterranean, egg, tomato, recipes]
+tags: [mediterranean, egg, tomato, recipes, fodmap]
 ---
 
 	An omelette on the ... Ho! ho! ho! ho! ... 

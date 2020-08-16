@@ -1,5 +1,6 @@
 ---
 title: Garlic oil
+tags: [garlic, recipes, fodmap]
 ---
 
 	1 cup oil (vegetable, sunflower, olive, as you please)

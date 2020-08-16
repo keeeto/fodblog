@@ -1,7 +1,7 @@
 ---
 title: Pork meat balls 
 category: tea
-tags: [ pork, asian, recipes]
+tags: [ pork, asian, recipes, fodmap]
 ---
 
 	We are the pigs

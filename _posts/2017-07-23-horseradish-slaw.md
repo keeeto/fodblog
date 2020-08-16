@@ -1,7 +1,7 @@
 ---
 title: Horseradish slaw 
 category: sauces
-tags: [ cabbage, recipes]
+tags: [ cabbage, recipes, fodmap]
 ---
 
 	So Maguire got tired

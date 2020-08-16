@@ -1,7 +1,7 @@
 ---
 title: Purple pickled cabbage and feta omelette 
 category: breakfast
-tags: [ pickle, asian, egg, recipe]
+tags: [ pickle, asian, egg, recipe, fodmap]
 ---
 	Honey, I know, I know
 	I know times are changing

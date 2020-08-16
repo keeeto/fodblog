@@ -1,6 +1,6 @@
 ---
 title: Celeriac and garlic soup
-tags: [spice, seasoning, mediterranean]
+tags: [spice, seasoning, mediterranean, recipes]
 ---
 
     Bizi ko vistica od biloga luka 
@@ -9,7 +9,7 @@ tags: [spice, seasoning, mediterranean]
 *Gypsy proverb* 
 
 
-    * 2 teaspoons of the [kebab spice mix]()
+    * 2 teaspoons of the [kebab spice mix]({% post_url 2020-03-08-kebab-spice-mix %})
     * 1 onion
     * 1 tablespoon olive oil
     * About 500g of celeriac

@@ -1,7 +1,7 @@
 ---
 title: Fish stock 
 category: basics
-tags: [fish, soup, stock, recipes]
+tags: [fish, soup, stock, recipes, fodmap]
 ---
 
 	Fish heads fish heads

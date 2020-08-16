@@ -1,6 +1,6 @@
 ---
 title: Creamy Paneer Dhal
-tags: [indian, recipes, dinner]
+tags: [indian, recipes, dinner, fodmap]
 ---
 
     It is raining in gusts but this storm

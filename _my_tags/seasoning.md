@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: eggs"
-tag: eggs
+title: "Tag: seasoning"
+tag: seasoning
 robots: noindex
 ---

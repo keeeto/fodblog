@@ -1,7 +1,7 @@
 ---
 title: Byzantine Eggs
 category: breakfast
-tags: [egg, middle_east, recipes]
+tags: [egg, middle_east, recipes, fodmap]
 ---
 	That is no country for old men. The young 
 	In one another's arms, birds in the trees, 

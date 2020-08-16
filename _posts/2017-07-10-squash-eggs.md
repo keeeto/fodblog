@@ -1,7 +1,7 @@
 ---
 title: Poached egg with porter-pickled squash 
 category: breakfast
-tags: [ pickle, middle_east, egg, recipes]
+tags: [ pickle, middle_east, egg, recipes, fodmap]
 ---
 
 	Rats get in too. Drink themselves bloated as big as a 

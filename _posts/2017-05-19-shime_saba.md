@@ -1,7 +1,7 @@
 ---
 title: Shime Saba (Marinated Mackerel) 
 category: tea
-tags: [fish, japan, pickle, recipes]
+tags: [fish, japan, pickle, recipes, fodmap]
 ---
 
 	Is it any wonder he affects a black cassock?

@@ -1,7 +1,7 @@
 ---
 title: Salmorejo 
 category: lunch
-tags: [mediterranean, soup, tomato, recipes]
+tags: [mediterranean, soup, tomato, recipes, fodmap]
 ---
 
 	yo nunca llegaré a Córdoba.

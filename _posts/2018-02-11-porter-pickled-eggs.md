@@ -1,6 +1,6 @@
 ---
 title: Smokey chipotle porter pickled eggs
-tags: [pickle, recipes, eggs]
+tags: [pickle, recipes, egg, fodmap]
 ---
 
     Billie and my friend the saint

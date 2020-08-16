@@ -32,6 +32,7 @@ layout: default
     {% capture category_content %}<a class="label" href="{{ category.url }}" style="background-color:{{ category.color }}">{{ category.name }}</a>{% endcapture %}
   {% endif %}
 
+  <!--
   {% if post.tags.size > 0 %}
     {% capture tags_content %} with <span class="icon-price-tag{% if post.tags.size > 1 %}s{% endif %}"></span>: {% endcapture %}
     {% for post_tag in post.tags %}
@@ -47,5 +48,13 @@ layout: default
    <p class="m-t-3 text-muted font-italic">
     <small>Posted{% if category_content %} in </small>{{ category_content }}<small>{% endif %}{{ tags_content }}</small>
   </p>
+//-->
+
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/blog/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
 
 </article>

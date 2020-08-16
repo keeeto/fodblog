@@ -1,7 +1,7 @@
 ---
 title: Baked eggs with kale salsa 
 category: breakfast
-tags: [egg, euro-mex, recipes]
+tags: [egg, mexican, recipes, fodmap]
 ---
 
 	Schiffer broke a bottle on Morgan's head

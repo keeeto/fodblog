@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: euro-mex"
-tag: euro-mex
+title: "Tag: aubergine"
+tag: aubergine
 robots: noindex
 ---
